@@ -7,6 +7,10 @@ DNA Files
 ---------------
 Sequencing reads for each of the cloned plasmids are avaliable in this repository. Each gene constructed was amplified by PCR, and cloned into a pCR 4 Blunt-TOPO vector for sequencing. From there, the gene construct was cloned into a pFBDM or pET17b plasmid for either insect or bacterial expression respectivley. 
 
+Each folder contains .ab1 files for forwards and reverse sequencing reads, plus a .gb file of the expected code and a word document of an annotated DNA code. The files, except the word file, can be assembled in a program such as SeqMan Pro to assess the quality of sequencing. 
+
+All the plasmids bellow were used to express the proteins stated. 
+
 TOPO Plasmids:
 * pASC_079 = TBK1 KD
 * pASC_083 = ∆NPINK1
